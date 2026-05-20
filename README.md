@@ -70,9 +70,11 @@ I design, build, and ship **scalable cross-platform mobile applications** with *
 
 ### GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Umair92&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Umair92&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Muhammad-Umair92?label=Followers&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Muhammad-Umair92?label=Total%20Stars&style=flat-square" alt="Stars" />
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0d3b6e?style=flat-square" alt="Experience" />
+  <img src="https://img.shields.io/badge/Focus-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Focus" />
 </p>
 
 ---
