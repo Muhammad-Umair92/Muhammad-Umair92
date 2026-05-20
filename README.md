@@ -68,13 +68,13 @@ I design, build, and ship **scalable cross-platform mobile applications** with *
 
 ---
 
-### GitHub stats
+### Quick facts
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/Muhammad-Umair92?label=Followers&style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Muhammad-Umair92?label=Total%20Stars&style=flat-square" alt="Stars" />
-  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0d3b6e?style=flat-square" alt="Experience" />
-  <img src="https://img.shields.io/badge/Focus-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Focus" />
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0d3b6e?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Focus-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Redux%20%7C%20Firebase-3178C6?style=for-the-badge" alt="Stack" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-22c55e?style=for-the-badge" alt="Open to remote" />
 </p>
 
 ---
